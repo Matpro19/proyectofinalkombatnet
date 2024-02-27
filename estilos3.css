@@ -1,0 +1,98 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+html{
+	background: #ffebeb;
+}
+
+#contenedor{
+	width: 1000px;
+	height: 750px;
+	background: red;
+	margin: auto;
+	margin-top: 10px;
+
+}
+header{
+	width: 750px:;
+	height: 250px;
+	background: purple;
+}
+#banner{
+	width: 750px;
+	height: 250px;
+	background: #b5a5ff;
+	float: right;
+}
+
+#logo{
+	height: 125px;
+	width: 250px;
+	background: rgb(240, 237, 94);
+	float: left;
+}
+#buscador1{
+	height: 125px;
+	width: 250px;
+	background: yellow;
+	float: left;
+}
+nav{
+	height: 50px;
+	background: rgb(218, 182, 252);
+}
+nav ul{
+	list-style: none;
+
+}
+nav ul li{
+	float: left;
+}
+nav a{
+	color: #f57c7c;
+	text-decoration: none;
+	padding: 25px;
+	line-height: 50px;
+	font-family: Bernard MT Condensed;
+
+}
+main{
+	height: 400px;
+	background: pink;
+}
+#izquierda{
+	height: 400px;
+	width: 250px;
+	background: rgb(241, 222, 181);
+	float: left;
+}
+#izquierda1{
+	height: 400px;
+	width: 250px;
+	background: rgb(241, 222, 181);
+	float: left;
+}
+article{
+	width: 550px;
+	height: 400px;
+	background: rgb(247, 247, 174);
+	float: left;
+}
+#derecha{
+	height: 400px;
+	width: 200px;
+	background: rgb(247, 217, 153);
+	float: left;
+}
+#derecha1{
+	height: 400px;
+	width: 200px;
+	background: rgb(247, 217, 153);
+	float: left;
+}
+
+footer{
+	height: 50px;
+	background-color: rgb(255, 157, 9);
+}
